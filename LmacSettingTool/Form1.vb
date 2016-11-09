@@ -3,4 +3,5 @@
 
     End Sub
     test hoge
+
 End Class
