@@ -4,4 +4,6 @@
     End Sub
     'hoge
     'hoge
+    'hoge_PullRequest
+
 End Class
