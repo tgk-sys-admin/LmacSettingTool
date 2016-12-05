@@ -3,5 +3,5 @@
 
     End Sub
     'hoge
-
+    'hoge
 End Class
