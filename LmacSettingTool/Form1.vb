@@ -5,5 +5,5 @@
     'hoge
     'hoge
     'hoge_PullRequest
-
+    'hoge_PullRequest
 End Class
